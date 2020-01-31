@@ -82,7 +82,8 @@ h2 {
 	grid-area: 2 / 3 / 4 / 4 ;
 }
 
-.footer {
+footer {
+	text-align: center;
 	margin-top: 60px;
 	padding-top: 10px;
 	background-color: lightgray;
